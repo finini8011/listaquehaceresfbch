@@ -3,7 +3,7 @@
     <div class="card" style="width: 450px">
         <img class="card-img-top" src="https://www.pixel.hn/themes/pixelpay/assets/images/logos/pixelpay.svg" alt="Card image cap" />
         <div class="card-body">
-            <h5 class="card-title text-center">Lista de tareas</h5>
+            <h5 class="card-title text-center">Lista de Quehaceres</h5>
             <div class="heading">
                 <add-item-form v-on:reloadlist="getList()" />
             </div>
